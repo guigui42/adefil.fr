@@ -1,0 +1,1395 @@
+{
+    "Manteau Veste": [
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Cintrer",
+            "action": "Taille sans doublure",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Cintrer",
+            "action": "Taille avec doublure",
+            "aProposer": "a emporter",
+            "prix": 45
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Cintrer",
+            "action": "Dos sans doublure",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Cintrer",
+            "action": "Dos avec doublure",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Raccourcir",
+            "action": "Longueur sans doublure",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Raccourcir",
+            "action": "Longueur avec doublure",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Raccourcir",
+            "action": "manches +doublure sans boutonnière",
+            "aProposer": " a emporter ou domicile",
+            "prix": 30
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Raccourcir",
+            "action": "Manches sans boutonnière",
+            "aProposer": "a emporter ou domicile",
+            "prix": 25
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Raccourcir",
+            "action": "manche+doublure avec boutonnière",
+            "aProposer": "a emporter",
+            "prix": 45
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Raccourcir",
+            "action": "Manches avec boutonnière",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Rallonger",
+            "action": "Longueur sans doublure si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Rallonger",
+            "action": "Longueur avec doublure si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 45
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Rallonger",
+            "action": "Manches si  tissu supplementaire +doublure",
+            "aProposer": "a emporter",
+            "prix": 42
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Rallonger",
+            "action": "Manches si  tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Changement doublure court",
+            "aProposer": "a emporter",
+            "prix": 102
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Changement doublure long",
+            "aProposer": "a emporter",
+            "prix": 149
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Coudières (x2)",
+            "aProposer": "a emporter",
+            "prix": 24
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "divers",
+            "action": " retirer des épaulettes (x2",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Ajouter des épaulettes x2",
+            "aProposer": "a emporter",
+            "prix": 50
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Rajout/remplacement zip",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "rajout/remplacement zip invisible",
+            "aProposer": "a emporter",
+            "prix": 50
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue - ",
+            "aProposer": "a emporter ou domicile",
+            "prix": 15
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Changement doublure 1 poche",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Bouton à l'unité ",
+            "aProposer": "a emporter ou     domicile",
+            "prix": 4
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Faire ou déplacer un passant",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "Manteau/Veste",
+            "catgorie": "Divers",
+            "action": "Changer / remplacer un col si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 50
+        }
+    ],
+    "Chemise": [
+        {
+            "vetement": "Chemise",
+            "catgorie": "Cintrer",
+            "action": "Epaules (pinces)",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Cintrer",
+            "action": "Taille",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Cintrer",
+            "action": "Manches (x2)",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Raccourcir",
+            "action": "Longueur des manches (x2) + boutonnière",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Raccourcir",
+            "action": "Longueur des manches (x2)",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Raccourcir",
+            "action": "Bas de chemise",
+            "aProposer": "a emporter ou domicile",
+            "prix": 25
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Changer/remplacer col uni",
+            "aProposer": "a emporter",
+            "prix": 50
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Changer/remplacer poignets (x2) uni",
+            "aProposer": "a emporter",
+            "prix": 50
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue ",
+            "aProposer": "a emporter ou domicile",
+            "prix": 10
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Changement doublure poche",
+            "aProposer": "a emporter",
+            "prix": 17
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Bouton à l'unité a la main",
+            "aProposer": "a emporter ou domicile",
+            "prix": 2
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Faire ou déplacer un passant",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Zip invisible",
+            "difficult": "*",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Chemise",
+            "catgorie": "Divers",
+            "action": "Zip",
+            "difficult": "*",
+            "aProposer": "a emporter",
+            "prix": 15
+        }
+    ],
+    "Top Haut": [
+        {
+            "vetement": "top",
+            "catgorie": "Cintrer",
+            "action": "Epaules (pinces)",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "top",
+            "catgorie": "Cintrer",
+            "action": "Taille",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "top",
+            "catgorie": "Raccourcir",
+            "action": "Bas de chemise",
+            "aProposer": "a emporter ou domicile",
+            "prix": 20
+        },
+        {
+            "vetement": "top",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue ",
+            "aProposer": "a emporter ou domicile",
+            "prix": 10
+        },
+        {
+            "vetement": "top",
+            "catgorie": "Divers",
+            "action": "Changement doublure poche",
+            "aProposer": "a emporter",
+            "prix": 17
+        },
+        {
+            "vetement": "top",
+            "catgorie": "Divers",
+            "action": "Bouton à l'unité a la main",
+            "aProposer": "a emporter ou domicile",
+            "prix": 2
+        },
+        {
+            "vetement": "top",
+            "catgorie": "Divers",
+            "action": "Faire ou déplacer un passant",
+            "aProposer": "a emporter",
+            "prix": 10
+        }
+    ],
+    "Pantalon": [
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Cintrer",
+            "action": "Ceinture",
+            "aProposer": "a emporter ",
+            "prix": 40
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Cintrer",
+            "action": "Bas de jambe",
+            "aProposer": "a emporter ",
+            "prix": 25
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Cintrer",
+            "action": "Toute la jambe",
+            "aProposer": "a emporter ",
+            "prix": 45
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Cintrer",
+            "action": "Entrejambes/fessier",
+            "aProposer": " a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Élargir",
+            "action": "Ceinture",
+            "prix": "sur demande"
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Ourlet",
+            "action": "Jeans/simple",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Ourlet",
+            "action": "Pantalon costume (main)",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Ourlet",
+            "action": "Ourlet revers",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Zip",
+            "aProposer": "a emporter",
+            "prix": 17
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Zip invisible",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Rajout pinces",
+            "aProposer": "a empoter",
+            "prix": 20
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "changement ceinture si tissu supplementaire",
+            "aProposer": "a empoter",
+            "prix": 40
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue - simple",
+            "aProposer": "a emporter",
+            "prix": 5
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue - complexe",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Couture complexe avec ecusson",
+            "aProposer": "a emporter",
+            "prix": 22
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Changement doublure poche",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Bouton à l'unité",
+            "aProposer": "a emporter ou domicile",
+            "prix": 3
+        },
+        {
+            "vetement": "Pantalon",
+            "catgorie": "Divers",
+            "action": "Faire ou déplacer un passant",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "-"
+        }
+    ],
+    "Jupe": [
+        {
+            "vetement": "Jupe",
+            "catgorie": "Élargir",
+            "action": "Ceinture + tissu",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Élargir",
+            "action": "Des deux côtés doublés si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 37
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Élargir",
+            "action": "Des deux côtés non doublés si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 27
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "Ourlet simple",
+            "aProposer": "a emporter ou domicile",
+            "prix": 18
+        },
+        {
+            "vetement": "jupe",
+            "catgorie": "Raccourcir",
+            "action": "ourlet simple+doublure",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "Ourlet ample",
+            "aProposer": "a emporter",
+            "prix": 27
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "ourlet ample+doublure",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "Ourlet main simple",
+            "aProposer": "a emporter",
+            "prix": 34
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "Ourlet main ample",
+            "aProposer": "a emporter",
+            "prix": 45
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "Cintrer par la ceinture avec zip",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Raccourcir",
+            "action": "cintrer les deux côtés",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Zip",
+            "aProposer": "a emporter",
+            "prix": 21
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Zip invisible",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue - simple",
+            "aProposer": "a emporter ou domicile",
+            "prix": 4
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue - complexe",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Changement doublure poche",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Bouton à l'unité",
+            "aProposer": "a emporter ou domicile",
+            "prix": 3
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": " déplacer un passant",
+            "aProposer": "a emporter",
+            "prix": 7
+        },
+        {
+            "vetement": "jupe",
+            "catgorie": "Divers",
+            "action": "faire fente ",
+            "aProposer": "a emporter",
+            "prix": 17
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Faire fente + doublure",
+            "aProposer": "a emporter",
+            "prix": 23
+        },
+        {
+            "vetement": "jupe",
+            "catgorie": "divers",
+            "action": "fermer une fente",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "jupe",
+            "catgorie": "Divers",
+            "action": "fermer une fente + doublure",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Jupe",
+            "catgorie": "Divers",
+            "action": "Changement doublure complète",
+            "aProposer": "a emporter",
+            "prix": 50
+        }
+    ],
+    "Robes Simples": [
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "élargir",
+            "action": "Des deux côtés doublés+si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "élargir",
+            "action": "Des deux côtés non doublés + si tissu supplementaire",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "élargir",
+            "action": "Dos",
+            "aProposer": "a emporter",
+            "prix": 27
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "élargir",
+            "action": "Bustier / taille",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Rallonger",
+            "action": "Bas de robe simple",
+            "aProposer": "a emporter ou domicile",
+            "prix": 18
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Rallonger",
+            "action": "Bas de robe avec fente ou ample",
+            "aProposer": "a emporter ",
+            "prix": 29
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Rallonger",
+            "action": "Bas de robe main simple",
+            "aProposer": "a emporter",
+            "prix": 36
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Rallonger",
+            "action": "Bas de robe main ample",
+            "aProposer": "a emporter",
+            "prix": 46
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Rallonger",
+            "action": "Les bretelles (x2)",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Bustier /taille",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "bustier/taille + doublure",
+            "aProposer": "a emporter",
+            "prix": 30
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Les manches sans boutonnière",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Manche avec boutonnière",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Des deux côtés doublés",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Des deux côtés non doublés",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "dos+doublure",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Dos",
+            "aProposer": "a emporter",
+            "prix": 29
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "Epaules",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Cintrer",
+            "action": "epaules + doublure",
+            "aProposer": "a emporter",
+            "prix": 30
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Pince (x1)",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe simple",
+            "aProposer": "a emporter",
+            "prix": 18
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe ample",
+            "aProposer": "a emporter",
+            "prix": 27
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "bas de robe ample + doublure",
+            "aProposer": "a emporter",
+            "prix": 30
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "bas de robe simple+ doublure",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe main simple",
+            "aProposer": "a emporter",
+            "prix": 34
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe main ample",
+            "aProposer": "a emporter",
+            "prix": 45
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Raccourcir",
+            "action": "Raccourcir les bretelles (x2)",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Zip",
+            "aProposer": "a emporter",
+            "prix": 28
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Zip invisible",
+            "aProposer": "a emporter",
+            "prix": 41
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Couture d'appoint ou décousue ",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Changement doublure poche",
+            "aProposer": "a emporter",
+            "prix": 17
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Bouton à l'unité",
+            "aProposer": "a emporter ou domicile",
+            "prix": 3
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Faire ou déplacer un passant",
+            "aProposer": "a emporer",
+            "prix": 10
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "Fermer une fente",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "Robe Simple",
+            "catgorie": "Divers",
+            "action": "fermer une fente + doublure",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "| Qté: 0 |"
+        }
+    ],
+    "Robe de soirée": [
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Élargir",
+            "action": "Des deux côtés doublés si tissu supplémentaire",
+            "aProposer": "a emporter",
+            "prix": 42
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Élargir",
+            "action": "Des deux côtés non doublés",
+            "aProposer": "a emporter",
+            "prix": 31
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Élargir",
+            "action": "Les manches sans boutonnière"
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Élargir",
+            "action": "Manche avec boutonnière"
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Élargir",
+            "action": "Bustier / taille",
+            "aProposer": "a emporter",
+            "prix": 55
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Élargir",
+            "action": "Dos",
+            "aProposer": "a emporter",
+            "prix": 55
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "Ourlet simple",
+            "aProposer": "a emporter",
+            "prix": 30
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "ourlet simple+ doublure",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "Ourlet ample",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "ourlet ample+ doublure",
+            "aProposer": "a emporter",
+            "prix": 45
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "Ourlet main simple",
+            "aProposer": "a emporter",
+            "prix": 46
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "Ourlet main ample",
+            "aProposer": "a emporter",
+            "prix": 56
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Rallonger",
+            "action": "Les bretelles (x2)",
+            "aProposer": "a emporter",
+            "prix": 28
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Bustier / taille",
+            "aProposer": "a emporter",
+            "prix": 56
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Les manches sans boutonnière",
+            "aProposer": "a emporter",
+            "prix": 49
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Manche avec boutonnière",
+            "aProposer": "a emporter",
+            "prix": 63
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Des deux côtés doublés",
+            "aProposer": "a emporter",
+            "prix": 75
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Des deux côtés non doublés",
+            "aProposer": "a emporter",
+            "prix": 70
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Dos",
+            "aProposer": "a emporter",
+            "prix": 70
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Cintrer",
+            "action": "Épaules",
+            "aProposer": "a emporter",
+            "prix": 40
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Pince (x1)",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe simple",
+            "aProposer": "a emporter",
+            "prix": 32
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "bas de robe simple+ doublure",
+            "aProposer": "a emporter",
+            "prix": 42
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe ample",
+            "aProposer": "a emporter",
+            "prix": 49
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "bas de robe ample+doublure",
+            "aProposer": "a emporter",
+            "prix": 60
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe main simple",
+            "aProposer": "a emporter",
+            "prix": 63
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "Bas de robe main ample",
+            "aProposer": "a emporter",
+            "prix": 84
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "Raccourcir",
+            "action": "Raccourcir les bretelles (x2)",
+            "aProposer": "a emporter",
+            "prix": 28
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Zip",
+            "aProposer": "a emporter",
+            "prix": 49
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "zip+doublure",
+            "aProposer": "a emporter",
+            "prix": 65
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Zip invisible",
+            "aProposer": "a emporter",
+            "prix": 59
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "zip invisible + doublure",
+            "aProposer": "a emporter",
+            "prix": 70
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Couture d'appoint ou décousue - simple"
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Couture d'appoint ou décousue - complexe"
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Déchiré"
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Changement doublure poche"
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Bouton à l'unité (x1)",
+            "aProposer": "a emporter ou domicile",
+            "prix": 4.5
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Bouton pression (x1)",
+            "aProposer": "a emporter ou domicile",
+            "prix": 7
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Boutonnière (x1)",
+            "aProposer": "a emporter",
+            "prix": 7
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Faire ou déplacer un passant",
+            "aProposer": "a emporter",
+            "prix": 14
+        },
+        {
+            "vetement": "Robe de soirée",
+            "catgorie": "divers",
+            "action": "Rajouter des bretelles (x2)"
+        }
+    ],
+    "Accessoires": [
+        {
+            "vetement": "Accessoire",
+            "catgorie": "pochette simple ",
+            "action": " changement du zip",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "pochette simple doublée",
+            "action": "zip",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "autre pochette",
+            "action": "zip",
+            "prix": "devis a prevoir"
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac",
+            "action": "changement d'un bouton pression",
+            "aProposer": "a emporter",
+            "prix": 12
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac",
+            "action": "changement zip ",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac",
+            "action": "couture d'appoint ou décousue",
+            "aProposer": "a emporter",
+            "prix": 8
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac",
+            "action": "couture d'un anse decousu",
+            "aProposer": "a emporter",
+            "prix": 8
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac doublé",
+            "action": "changement zip ",
+            "aProposer": "a emporter",
+            "prix": 30
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac doublé",
+            "action": "changement doublure",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac doublé",
+            "action": "couture d'appoint ou décousue",
+            "aProposer": "a emporter",
+            "prix": 12
+        },
+        {
+            "vetement": "Accessoire",
+            "catgorie": "sac doublé",
+            "action": "couture d'un anse decousu",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "ourlet nappe ",
+            "action": "decousu",
+            "aProposer": "a emporter",
+            "prix": 6
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "ourlet nappe decousu petite (100x100 ou ronde diametre 100)  ",
+            "action": "refaire un ourlet simple",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "ourlet nappe decousu petite (100x100 ou ronde diametre 100)  ",
+            "action": "refaire ou changer un ourlet avec un biais",
+            "aProposer": "a emporter",
+            "prix": 25
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "ourlet nappe decousu grande(200x200 ou ronde diametre 200)  ",
+            "action": "refaire un ourlet simple",
+            "aProposer": "a emporter",
+            "prix": 15
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "ourlet nappe decousu grande(200x200 ou ronde diametre 200)  ",
+            "action": "refaire ou changer un ourlet avec un biais",
+            "aProposer": "a emporter",
+            "prix": 35
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "serviette ",
+            "action": "couture d'appoint ou décousue",
+            "aProposer": "a emporter",
+            "prix": 5
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "serviette ",
+            "action": "refaire un ourlet ",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "housse decoussin",
+            "action": "changement d'un zip invisible",
+            "aProposer": "a emporter",
+            "prix": 20
+        },
+        {
+            "vetement": "linge de maison",
+            "catgorie": "housse de coussin",
+            "action": "couture d'appoint ou décousue",
+            "aProposer": "a emporter ou domicile",
+            "prix": 8
+        },
+        {
+            "vetement": "ameublement",
+            "catgorie": "voilage x1",
+            "action": "raccourcir ou raccourcir ou faire un ourlet",
+            "aProposer": "a emporter ou domicile",
+            "prix": 6
+        },
+        {
+            "vetement": "ameublement",
+            "catgorie": "double rideau x1",
+            "action": "faire un ourlet",
+            "aProposer": "a emporter",
+            "prix": 10
+        },
+        {
+            "vetement": "ameublement",
+            "catgorie": "double rideau doublé x1",
+            "action": "raccourcir ou faire un ourlet",
+            "aProposer": "a emporter",
+            "prix": 18
+        }
+    ],
+    "sur demande": [
+        {
+            "action": "elargir la ceinture",
+            "vetement": "pantalon",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 50
+        },
+        {
+            "action": "elargir les manches sans boutonnière",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 49
+        },
+        {
+            "action": "elargir les Manche avec boutonnière",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 63
+        },
+        {
+            "action": "Couture d'appoint ou décousue - simple",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 11
+        },
+        {
+            "action": "Couture d'appoint ou décousue - complexe",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 20
+        },
+        {
+            "action": "Déchiré",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 17
+        },
+        {
+            "action": "Changement doublure poche",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 28
+        },
+        {
+            "action": "Rajouter des bretelles (x2)",
+            "vetement": "robes de soirées",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir",
+            "prixDeBaseUnMinimunDe": 31
+        },
+        {
+            "action": "réalisation d'un double rideau",
+            "vetement": " plis simple",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir"
+        },
+        {
+            "action": "réalisation d'un double rideau",
+            "vetement": "plis flamands",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir"
+        },
+        {
+            "action": "réalisation d'un double rideau",
+            "vetement": "avec passants",
+            "aProposer": "sur demande",
+            "prix": "devis a prevoir"
+        }
+    ]
+}
