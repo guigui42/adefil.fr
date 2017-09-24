@@ -34,7 +34,7 @@ String.prototype.cleanup = function() {
       var price = `<div class='col-lg-4 col-md-6 mb-4 hidden prices `+key.cleanup()+`'  id="`+key.cleanup()+`"  >
 
               <div class='card h-100'>
-                <a href='#'><img class='card-img-top' src='https://placehold.it/700x400' alt=''></a>
+               
                 <div class='card-footer'>
                   <small class='text-muted'>`+this.vetement+`</small>
                 </div>
@@ -51,7 +51,16 @@ String.prototype.cleanup = function() {
                 
               </div>
             </div>`;
-    $(price).appendTo("#priceslist");
+
+  var price = `
+     <tr class="prices hidden `+key.cleanup()+` id="`+key.cleanup()+`">
+        <td>`+this.vetement+`</td>
+        <td>`+this.catgorie+`</td>
+        <td>`+this.action+`</td>
+        <td><b>`+this.prix+` </b>€</td>
+      </tr>
+  `;
+    $(price).appendTo("#priceslisttable");
     });
 
   });
