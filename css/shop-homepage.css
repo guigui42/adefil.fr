@@ -5,20 +5,16 @@
  */
 
 body {
-    padding-top: 94px;
+    padding-top: 100px;
 }
 
 @media (min-width: 992px) {
     body {
-        padding-top: 96px;
+        padding-top: 100px;
     }
 
 }
 
 nav  {
 	color : black;
-}
-
-div.navbar div.navbar-inner ul.nav a:hover {
-    color: #fff !important; 
 }
