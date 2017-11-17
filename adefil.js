@@ -5,8 +5,8 @@ $(".menu").removeClass('active');
 //alert("dfd");
  $("."+item).removeClass('hidden');
   $("#menu"+item).addClass('active');
- //$(item).toggle();
- $("#title").text(  item2);
+
+
 }
 
   jQuery(document).ready(function($) {
@@ -34,7 +34,7 @@ String.prototype.cleanup = function() {
 
 
   var price = "<tr class='prices hidden "+key.cleanup()+"' id='"+key.cleanup()+"'>"+
-      +"<td>"+this.vetement+"</td>"+
+    //  +"<td>"+this.vetement+"</td>"+
       +"<td>"+this.catgorie+"</td>"+
       +"<td>"+this.action+"</td>"+
       +"<td><b>"+this.prix+"</b>€</td>"+
@@ -45,7 +45,7 @@ String.prototype.cleanup = function() {
 
     //$(price).appendTo("#priceslisttable");
 
-     $("<tr class='prices hidden "+key.cleanup()+" '  id='"+key.cleanup()+"'><td>"+this.vetement+"</td><td>"+this.catgorie+"</td><td>"+this.action+"</td><td>"+this.prix+"</td></tr>").appendTo("#priceslisttable");
+     $("<tr class='prices hidden "+key.cleanup()+" '  id='"+key.cleanup()+"'><td>"+this.catgorie+"</td><td>"+this.action+"</td><td><b>"+this.prix+"</b>€</td></tr>").appendTo("#priceslisttable");
 
 
     });
