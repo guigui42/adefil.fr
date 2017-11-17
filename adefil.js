@@ -33,14 +33,16 @@ String.prototype.cleanup = function() {
 
 
 
-  var price = `
-     <tr class="prices hidden `+key.cleanup()+` id="`+key.cleanup()+`">
-        <td>`+this.vetement+`</td>
-        <td>`+this.catgorie+`</td>
-        <td>`+this.action+`</td>
-        <td><b>`+this.prix+` </b>€</td>
-      </tr>
-  `;
+  var price = "<tr class='prices hidden "+key.cleanup()+"' id='"+key.cleanup()+"'>"+
+      +"<td>"+this.vetement+"</td>"+
+      +"<td>"+this.catgorie+"</td>"+
+      +"<td>"+this.action+"</td>"+
+      +"<td><b>"+this.prix+"</b>€</td>"+
+      +"</tr>";
+
+
+
+
     $(price).appendTo("#priceslisttable");
     });
 
