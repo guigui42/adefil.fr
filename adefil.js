@@ -25,7 +25,7 @@ String.prototype.cleanup = function() {
 
   var items = [];
   $.each( data, function( key, val ) {
-    var link = "<a href='#"+key.cleanup()+"' onClick=\"toggler('"+key.cleanup()+"', '"+key+"');\" class='list-group-item menu' id='menu"+key.cleanup()+"'>"+key+"</a>";
+    var link = "<a href='#topoftable' onClick=\"toggler('"+key.cleanup()+"', '"+key+"');\" class='list-group-item menu' id='menu"+key.cleanup()+"'>"+key+"</a>";
     $( link).appendTo( "#list1" );
 
 
@@ -44,8 +44,16 @@ String.prototype.cleanup = function() {
 
 
     //$(price).appendTo("#priceslisttable");
+var dollar = "€";
 
-     $("<tr class='prices hidden "+key.cleanup()+" '  id='"+key.cleanup()+"'><td>"+this.catgorie+"</td><td>"+this.action+"</td><td><b>"+this.prix+"</b>€</td></tr>").appendTo("#priceslisttable");
+if (isNaN(this.prix))
+  dollar="";
+
+if(!this.catgorie)
+  this.catgorie = "";
+
+if(this.action && this.prix)
+     $("<tr class='prices hidden "+key.cleanup()+" '  id='"+key.cleanup()+"'><td>"+this.catgorie+"</td><td>"+this.action+"</td><td><b>"+this.prix+"</b>"+dollar+"</td></tr>").appendTo("#priceslisttable");
 
 
     });
