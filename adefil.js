@@ -43,7 +43,11 @@ String.prototype.cleanup = function() {
 
 
 
-    $(price).appendTo("#priceslisttable");
+    //$(price).appendTo("#priceslisttable");
+
+     $("<tr class='prices hidden "+key.cleanup()+" '  id='"+key.cleanup()+"'><td>"+this.vetement+"</td><td>"+this.catgorie+"</td><td>"+this.action+"</td><td>"+this.prix+"</td></tr>").appendTo("#priceslisttable");
+
+
     });
 
   });
