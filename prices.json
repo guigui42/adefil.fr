@@ -1,6 +1,7 @@
 {
     "Manteau Veste": [
         {
+            "reference": "MV001",
             "vetement": "Manteau/Veste",
             "catgorie": "Cintrer",
             "action": "Taille sans doublure",
@@ -8,6 +9,7 @@
             "prix": 35
         },
         {
+            "reference": "MV002",
             "vetement": "Manteau/Veste",
             "catgorie": "Cintrer",
             "action": "Taille avec doublure",
@@ -15,6 +17,7 @@
             "prix": 45
         },
         {
+            "reference": "MV003",
             "vetement": "Manteau/Veste",
             "catgorie": "Cintrer",
             "action": "Dos sans doublure",
@@ -22,6 +25,7 @@
             "prix": 20
         },
         {
+            "reference": "MV004",
             "vetement": "Manteau/Veste",
             "catgorie": "Cintrer",
             "action": "Dos avec doublure",
@@ -29,6 +33,7 @@
             "prix": 29
         },
         {
+            "reference": "MV005",
             "vetement": "Manteau/Veste",
             "catgorie": "Raccourcir",
             "action": "Longueur sans doublure",
@@ -36,6 +41,7 @@
             "prix": 29
         },
         {
+            "reference": "MV006",
             "vetement": "Manteau/Veste",
             "catgorie": "Raccourcir",
             "action": "Longueur avec doublure",
@@ -43,6 +49,7 @@
             "prix": 35
         },
         {
+            "reference": "MV007",
             "vetement": "Manteau/Veste",
             "catgorie": "Raccourcir",
             "action": "manches +doublure sans boutonnière",
@@ -50,6 +57,7 @@
             "prix": 30
         },
         {
+            "reference": "MV008",
             "vetement": "Manteau/Veste",
             "catgorie": "Raccourcir",
             "action": "Manches sans boutonnière",
@@ -57,6 +65,7 @@
             "prix": 25
         },
         {
+            "reference": "MV009",
             "vetement": "Manteau/Veste",
             "catgorie": "Raccourcir",
             "action": "manche+doublure avec boutonnière",
@@ -64,6 +73,7 @@
             "prix": 45
         },
         {
+            "reference": "MV010",
             "vetement": "Manteau/Veste",
             "catgorie": "Raccourcir",
             "action": "Manches avec boutonnière",
@@ -71,6 +81,7 @@
             "prix": 35
         },
         {
+            "reference": "MV011",
             "vetement": "Manteau/Veste",
             "catgorie": "Rallonger",
             "action": "Longueur sans doublure si tissu supplementaire",
@@ -78,6 +89,7 @@
             "prix": 40
         },
         {
+            "reference": "MV012",
             "vetement": "Manteau/Veste",
             "catgorie": "Rallonger",
             "action": "Longueur avec doublure si tissu supplementaire",
@@ -85,6 +97,7 @@
             "prix": 45
         },
         {
+            "reference": "MV013",
             "vetement": "Manteau/Veste",
             "catgorie": "Rallonger",
             "action": "Manches si  tissu supplementaire +doublure",
@@ -92,6 +105,7 @@
             "prix": 42
         },
         {
+            "reference": "MV014",
             "vetement": "Manteau/Veste",
             "catgorie": "Rallonger",
             "action": "Manches si  tissu supplementaire",
@@ -99,6 +113,7 @@
             "prix": 40
         },
         {
+            "reference": "MV015",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Changement doublure court",
@@ -106,6 +121,7 @@
             "prix": 102
         },
         {
+            "reference": "MV016",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Changement doublure long",
@@ -113,6 +129,7 @@
             "prix": 149
         },
         {
+            "reference": "MV017",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Coudières (x2)",
@@ -120,6 +137,7 @@
             "prix": 24
         },
         {
+            "reference": "MV018",
             "vetement": "Manteau/Veste",
             "catgorie": "divers",
             "action": " retirer des épaulettes (x2",
@@ -127,6 +145,7 @@
             "prix": 15
         },
         {
+            "reference": "MV019",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Ajouter des épaulettes x2",
@@ -134,6 +153,7 @@
             "prix": 50
         },
         {
+            "reference": "MV020",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Rajout/remplacement zip",
@@ -141,6 +161,7 @@
             "prix": 40
         },
         {
+            "reference": "MV021",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "rajout/remplacement zip invisible",
@@ -148,6 +169,7 @@
             "prix": 50
         },
         {
+            "reference": "MV022",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue - ",
@@ -155,6 +177,7 @@
             "prix": 15
         },
         {
+            "reference": "MV023",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Changement doublure 1 poche",
@@ -162,6 +185,7 @@
             "prix": 15
         },
         {
+            "reference": "MV024",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Bouton à l'unité ",
@@ -169,6 +193,7 @@
             "prix": 4
         },
         {
+            "reference": "MV025",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Faire ou déplacer un passant",
@@ -176,6 +201,7 @@
             "prix": 10
         },
         {
+            "reference": "MV026",
             "vetement": "Manteau/Veste",
             "catgorie": "Divers",
             "action": "Changer / remplacer un col si tissu supplementaire",
@@ -185,6 +211,7 @@
     ],
     "Chemise": [
         {
+            "reference": "CH001",
             "vetement": "Chemise",
             "catgorie": "Cintrer",
             "action": "Epaules (pinces)",
@@ -192,6 +219,7 @@
             "prix": 25
         },
         {
+            "reference": "CH002",
             "vetement": "Chemise",
             "catgorie": "Cintrer",
             "action": "Taille",
@@ -199,6 +227,7 @@
             "prix": 25
         },
         {
+            "reference": "CH003",
             "vetement": "Chemise",
             "catgorie": "Cintrer",
             "action": "Manches (x2)",
@@ -206,6 +235,7 @@
             "prix": 29
         },
         {
+            "reference": "CH004",
             "vetement": "Chemise",
             "catgorie": "Raccourcir",
             "action": "Longueur des manches (x2) + boutonnière",
@@ -213,6 +243,7 @@
             "prix": 29
         },
         {
+            "reference": "CH005",
             "vetement": "Chemise",
             "catgorie": "Raccourcir",
             "action": "Longueur des manches (x2)",
@@ -220,6 +251,7 @@
             "prix": 20
         },
         {
+            "reference": "CH006",
             "vetement": "Chemise",
             "catgorie": "Raccourcir",
             "action": "Bas de chemise",
@@ -227,6 +259,7 @@
             "prix": 25
         },
         {
+            "reference": "CH007",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Changer/remplacer col uni",
@@ -234,6 +267,7 @@
             "prix": 50
         },
         {
+            "reference": "CH008",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Changer/remplacer poignets (x2) uni",
@@ -241,6 +275,7 @@
             "prix": 50
         },
         {
+            "reference": "CH009",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue ",
@@ -248,6 +283,7 @@
             "prix": 10
         },
         {
+            "reference": "CH010",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Changement doublure poche",
@@ -255,6 +291,7 @@
             "prix": 17
         },
         {
+            "reference": "CH011",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Bouton à l'unité a la main",
@@ -262,6 +299,7 @@
             "prix": 2
         },
         {
+            "reference": "CH012",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Faire ou déplacer un passant",
@@ -269,6 +307,7 @@
             "prix": 10
         },
         {
+            "reference": "CH013",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Zip invisible",
@@ -277,6 +316,7 @@
             "prix": 29
         },
         {
+            "reference": "CH014",
             "vetement": "Chemise",
             "catgorie": "Divers",
             "action": "Zip",
@@ -287,6 +327,7 @@
     ],
     "Top Haut": [
         {
+            "reference": "TH001",
             "vetement": "top",
             "catgorie": "Cintrer",
             "action": "Epaules (pinces)",
@@ -294,6 +335,7 @@
             "prix": 20
         },
         {
+            "reference": "TH002",
             "vetement": "top",
             "catgorie": "Cintrer",
             "action": "Taille",
@@ -301,6 +343,7 @@
             "prix": 20
         },
         {
+            "reference": "TH003",
             "vetement": "top",
             "catgorie": "Raccourcir",
             "action": "Bas de chemise",
@@ -308,6 +351,7 @@
             "prix": 20
         },
         {
+            "reference": "TH004",
             "vetement": "top",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue ",
@@ -315,6 +359,7 @@
             "prix": 10
         },
         {
+            "reference": "TH005",
             "vetement": "top",
             "catgorie": "Divers",
             "action": "Changement doublure poche",
@@ -322,6 +367,7 @@
             "prix": 17
         },
         {
+            "reference": "TH006",
             "vetement": "top",
             "catgorie": "Divers",
             "action": "Bouton à l'unité a la main",
@@ -329,6 +375,7 @@
             "prix": 2
         },
         {
+            "reference": "TH007",
             "vetement": "top",
             "catgorie": "Divers",
             "action": "Faire ou déplacer un passant",
@@ -338,6 +385,7 @@
     ],
     "Pantalon": [
         {
+            "reference": "PA001",
             "vetement": "Pantalon",
             "catgorie": "Cintrer",
             "action": "Ceinture",
@@ -345,6 +393,7 @@
             "prix": 40
         },
         {
+            "reference": "PA002",
             "vetement": "Pantalon",
             "catgorie": "Cintrer",
             "action": "Bas de jambe",
@@ -352,6 +401,7 @@
             "prix": 25
         },
         {
+            "reference": "PA003",
             "vetement": "Pantalon",
             "catgorie": "Cintrer",
             "action": "Toute la jambe",
@@ -359,6 +409,7 @@
             "prix": 45
         },
         {
+            "reference": "PA004",
             "vetement": "Pantalon",
             "catgorie": "Cintrer",
             "action": "Entrejambes/fessier",
@@ -366,12 +417,14 @@
             "prix": 29
         },
         {
+            "reference": "PA005",
             "vetement": "Pantalon",
             "catgorie": "Élargir",
             "action": "Ceinture",
             "prix": "sur demande"
         },
         {
+            "reference": "PA006",
             "vetement": "Pantalon",
             "catgorie": "Ourlet",
             "action": "Jeans/simple",
@@ -379,6 +432,7 @@
             "prix": 10
         },
         {
+            "reference": "PA007",
             "vetement": "Pantalon",
             "catgorie": "Ourlet",
             "action": "Pantalon costume (main)",
@@ -386,6 +440,7 @@
             "prix": 20
         },
         {
+            "reference": "PA008",
             "vetement": "Pantalon",
             "catgorie": "Ourlet",
             "action": "Ourlet revers",
@@ -393,6 +448,7 @@
             "prix": 20
         },
         {
+            "reference": "PA009",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Zip",
@@ -400,6 +456,7 @@
             "prix": 17
         },
         {
+            "reference": "PA010",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Zip invisible",
@@ -407,6 +464,7 @@
             "prix": 29
         },
         {
+            "reference": "PA011",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Rajout pinces",
@@ -414,6 +472,7 @@
             "prix": 20
         },
         {
+            "reference": "PA012",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "changement ceinture si tissu supplementaire",
@@ -421,6 +480,7 @@
             "prix": 40
         },
         {
+            "reference": "PA013",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue - simple",
@@ -428,6 +488,7 @@
             "prix": 5
         },
         {
+            "reference": "PA014",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue - complexe",
@@ -435,6 +496,7 @@
             "prix": 10
         },
         {
+            "reference": "PA015",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Couture complexe avec ecusson",
@@ -442,6 +504,7 @@
             "prix": 22
         },
         {
+            "reference": "PA016",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Changement doublure poche",
@@ -449,6 +512,7 @@
             "prix": 20
         },
         {
+            "reference": "PA017",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Bouton à l'unité",
@@ -456,6 +520,7 @@
             "prix": 3
         },
         {
+            "reference": "PA018",
             "vetement": "Pantalon",
             "catgorie": "Divers",
             "action": "Faire ou déplacer un passant",
@@ -463,11 +528,18 @@
             "prix": 10
         },
         {
+            "vetement": "pantalon",
+            "catgorie": "ourlet simple ",
+            "action": "faire un ourlet simple machine",
+            "aProposer": "a emporter"
+        },
+        {
             "vetement": "-"
         }
     ],
     "Jupe": [
         {
+            "reference": "JU001",
             "vetement": "Jupe",
             "catgorie": "Élargir",
             "action": "Ceinture + tissu",
@@ -475,6 +547,7 @@
             "prix": 25
         },
         {
+            "reference": "JU002",
             "vetement": "Jupe",
             "catgorie": "Élargir",
             "action": "Des deux côtés doublés si tissu supplementaire",
@@ -482,6 +555,7 @@
             "prix": 37
         },
         {
+            "reference": "JU003",
             "vetement": "Jupe",
             "catgorie": "Élargir",
             "action": "Des deux côtés non doublés si tissu supplementaire",
@@ -489,6 +563,7 @@
             "prix": 27
         },
         {
+            "reference": "JU004",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "Ourlet simple",
@@ -496,6 +571,7 @@
             "prix": 18
         },
         {
+            "reference": "JU005",
             "vetement": "jupe",
             "catgorie": "Raccourcir",
             "action": "ourlet simple+doublure",
@@ -503,6 +579,7 @@
             "prix": 20
         },
         {
+            "reference": "JU006",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "Ourlet ample",
@@ -510,6 +587,7 @@
             "prix": 27
         },
         {
+            "reference": "JU007",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "ourlet ample+doublure",
@@ -517,6 +595,7 @@
             "prix": 29
         },
         {
+            "reference": "JU008",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "Ourlet main simple",
@@ -524,6 +603,7 @@
             "prix": 34
         },
         {
+            "reference": "JU009",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "Ourlet main ample",
@@ -531,6 +611,7 @@
             "prix": 45
         },
         {
+            "reference": "JU010",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "Cintrer par la ceinture avec zip",
@@ -538,6 +619,7 @@
             "prix": 40
         },
         {
+            "reference": "JU011",
             "vetement": "Jupe",
             "catgorie": "Raccourcir",
             "action": "cintrer les deux côtés",
@@ -545,6 +627,7 @@
             "prix": 29
         },
         {
+            "reference": "JU012",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Zip",
@@ -552,6 +635,7 @@
             "prix": 21
         },
         {
+            "reference": "JU013",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Zip invisible",
@@ -559,6 +643,7 @@
             "prix": 29
         },
         {
+            "reference": "JU014",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue - simple",
@@ -566,6 +651,7 @@
             "prix": 4
         },
         {
+            "reference": "JU015",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue - complexe",
@@ -573,6 +659,7 @@
             "prix": 10
         },
         {
+            "reference": "JU016",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Changement doublure poche",
@@ -580,6 +667,7 @@
             "prix": 20
         },
         {
+            "reference": "JU017",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Bouton à l'unité",
@@ -587,6 +675,7 @@
             "prix": 3
         },
         {
+            "reference": "JU018",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": " déplacer un passant",
@@ -594,6 +683,7 @@
             "prix": 7
         },
         {
+            "reference": "JU019",
             "vetement": "jupe",
             "catgorie": "Divers",
             "action": "faire fente ",
@@ -601,6 +691,7 @@
             "prix": 17
         },
         {
+            "reference": "JU020",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Faire fente + doublure",
@@ -608,6 +699,7 @@
             "prix": 23
         },
         {
+            "reference": "JU021",
             "vetement": "jupe",
             "catgorie": "divers",
             "action": "fermer une fente",
@@ -615,6 +707,7 @@
             "prix": 15
         },
         {
+            "reference": "JU022",
             "vetement": "jupe",
             "catgorie": "Divers",
             "action": "fermer une fente + doublure",
@@ -622,6 +715,7 @@
             "prix": 20
         },
         {
+            "reference": "JU023",
             "vetement": "Jupe",
             "catgorie": "Divers",
             "action": "Changement doublure complète",
@@ -631,6 +725,7 @@
     ],
     "Robes Simples": [
         {
+            "reference": "RS001",
             "vetement": "Robe Simple",
             "catgorie": "élargir",
             "action": "Des deux côtés doublés+si tissu supplementaire",
@@ -638,6 +733,7 @@
             "prix": 40
         },
         {
+            "reference": "RS002",
             "vetement": "Robe Simple",
             "catgorie": "élargir",
             "action": "Des deux côtés non doublés + si tissu supplementaire",
@@ -645,6 +741,7 @@
             "prix": 29
         },
         {
+            "reference": "RS003",
             "vetement": "Robe Simple",
             "catgorie": "élargir",
             "action": "Dos",
@@ -652,6 +749,7 @@
             "prix": 27
         },
         {
+            "reference": "RS004",
             "vetement": "Robe Simple",
             "catgorie": "élargir",
             "action": "Bustier / taille",
@@ -659,6 +757,7 @@
             "prix": 35
         },
         {
+            "reference": "RS005",
             "vetement": "Robe Simple",
             "catgorie": "Rallonger",
             "action": "Bas de robe simple",
@@ -666,6 +765,7 @@
             "prix": 18
         },
         {
+            "reference": "RS006",
             "vetement": "Robe Simple",
             "catgorie": "Rallonger",
             "action": "Bas de robe avec fente ou ample",
@@ -673,6 +773,7 @@
             "prix": 29
         },
         {
+            "reference": "RS007",
             "vetement": "Robe Simple",
             "catgorie": "Rallonger",
             "action": "Bas de robe main simple",
@@ -680,6 +781,7 @@
             "prix": 36
         },
         {
+            "reference": "RS008",
             "vetement": "Robe Simple",
             "catgorie": "Rallonger",
             "action": "Bas de robe main ample",
@@ -687,6 +789,7 @@
             "prix": 46
         },
         {
+            "reference": "RS009",
             "vetement": "Robe Simple",
             "catgorie": "Rallonger",
             "action": "Les bretelles (x2)",
@@ -694,6 +797,7 @@
             "prix": 15
         },
         {
+            "reference": "RS010",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Bustier /taille",
@@ -701,6 +805,7 @@
             "prix": 25
         },
         {
+            "reference": "RS011",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "bustier/taille + doublure",
@@ -708,6 +813,7 @@
             "prix": 30
         },
         {
+            "reference": "RS012",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Les manches sans boutonnière",
@@ -715,6 +821,7 @@
             "prix": 25
         },
         {
+            "reference": "RS013",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Manche avec boutonnière",
@@ -722,6 +829,7 @@
             "prix": 35
         },
         {
+            "reference": "RS014",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Des deux côtés doublés",
@@ -729,6 +837,7 @@
             "prix": 40
         },
         {
+            "reference": "RS015",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Des deux côtés non doublés",
@@ -736,6 +845,7 @@
             "prix": 29
         },
         {
+            "reference": "RS016",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "dos+doublure",
@@ -743,6 +853,7 @@
             "prix": 40
         },
         {
+            "reference": "RS017",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Dos",
@@ -750,6 +861,7 @@
             "prix": 29
         },
         {
+            "reference": "RS018",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "Epaules",
@@ -757,6 +869,7 @@
             "prix": 20
         },
         {
+            "reference": "RS019",
             "vetement": "Robe Simple",
             "catgorie": "Cintrer",
             "action": "epaules + doublure",
@@ -764,6 +877,7 @@
             "prix": 30
         },
         {
+            "reference": "RS020",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Pince (x1)",
@@ -771,6 +885,7 @@
             "prix": 20
         },
         {
+            "reference": "RS021",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "Bas de robe simple",
@@ -778,6 +893,7 @@
             "prix": 18
         },
         {
+            "reference": "RS022",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "Bas de robe ample",
@@ -785,6 +901,7 @@
             "prix": 27
         },
         {
+            "reference": "RS023",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "bas de robe ample + doublure",
@@ -792,6 +909,7 @@
             "prix": 30
         },
         {
+            "reference": "RS024",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "bas de robe simple+ doublure",
@@ -799,6 +917,7 @@
             "prix": 20
         },
         {
+            "reference": "RS025",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "Bas de robe main simple",
@@ -806,6 +925,7 @@
             "prix": 34
         },
         {
+            "reference": "RS026",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "Bas de robe main ample",
@@ -813,6 +933,7 @@
             "prix": 45
         },
         {
+            "reference": "RS027",
             "vetement": "Robe Simple",
             "catgorie": "Raccourcir",
             "action": "Raccourcir les bretelles (x2)",
@@ -820,6 +941,7 @@
             "prix": 15
         },
         {
+            "reference": "RS028",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Zip",
@@ -827,6 +949,7 @@
             "prix": 28
         },
         {
+            "reference": "RS029",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Zip invisible",
@@ -834,6 +957,7 @@
             "prix": 41
         },
         {
+            "reference": "RS030",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Couture d'appoint ou décousue ",
@@ -841,6 +965,7 @@
             "prix": 10
         },
         {
+            "reference": "RS031",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Changement doublure poche",
@@ -848,6 +973,7 @@
             "prix": 17
         },
         {
+            "reference": "RS032",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Bouton à l'unité",
@@ -855,6 +981,7 @@
             "prix": 3
         },
         {
+            "reference": "RS033",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Faire ou déplacer un passant",
@@ -862,6 +989,7 @@
             "prix": 10
         },
         {
+            "reference": "RS034",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "Fermer une fente",
@@ -869,18 +997,17 @@
             "prix": 15
         },
         {
+            "reference": "RS035",
             "vetement": "Robe Simple",
             "catgorie": "Divers",
             "action": "fermer une fente + doublure",
             "aProposer": "a emporter",
             "prix": 20
-        },
-        {
-            "vetement": "| Qté: 0 |"
         }
     ],
     "Robe de soirée": [
         {
+            "reference": "SO001",
             "vetement": "Robe de soirée",
             "catgorie": "Élargir",
             "action": "Des deux côtés doublés si tissu supplémentaire",
@@ -888,6 +1015,7 @@
             "prix": 42
         },
         {
+            "reference": "SO002",
             "vetement": "Robe de soirée",
             "catgorie": "Élargir",
             "action": "Des deux côtés non doublés",
@@ -895,16 +1023,19 @@
             "prix": 31
         },
         {
+            "reference": "SO003",
             "vetement": "Robe de soirée",
             "catgorie": "Élargir",
             "action": "Les manches sans boutonnière"
         },
         {
+            "reference": "SO004",
             "vetement": "Robe de soirée",
             "catgorie": "Élargir",
             "action": "Manche avec boutonnière"
         },
         {
+            "reference": "SO005",
             "vetement": "Robe de soirée",
             "catgorie": "Élargir",
             "action": "Bustier / taille",
@@ -912,6 +1043,7 @@
             "prix": 55
         },
         {
+            "reference": "SO006",
             "vetement": "Robe de soirée",
             "catgorie": "Élargir",
             "action": "Dos",
@@ -919,6 +1051,7 @@
             "prix": 55
         },
         {
+            "reference": "SO007",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "Ourlet simple",
@@ -926,6 +1059,7 @@
             "prix": 30
         },
         {
+            "reference": "SO008",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "ourlet simple+ doublure",
@@ -933,6 +1067,7 @@
             "prix": 40
         },
         {
+            "reference": "SO009",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "Ourlet ample",
@@ -940,6 +1075,7 @@
             "prix": 35
         },
         {
+            "reference": "SO010",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "ourlet ample+ doublure",
@@ -947,6 +1083,7 @@
             "prix": 45
         },
         {
+            "reference": "SO011",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "Ourlet main simple",
@@ -954,6 +1091,7 @@
             "prix": 46
         },
         {
+            "reference": "SO012",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "Ourlet main ample",
@@ -961,6 +1099,7 @@
             "prix": 56
         },
         {
+            "reference": "SO013",
             "vetement": "Robe de soirée",
             "catgorie": "Rallonger",
             "action": "Les bretelles (x2)",
@@ -968,6 +1107,7 @@
             "prix": 28
         },
         {
+            "reference": "SO014",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Bustier / taille",
@@ -975,6 +1115,7 @@
             "prix": 56
         },
         {
+            "reference": "SO015",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Les manches sans boutonnière",
@@ -982,6 +1123,7 @@
             "prix": 49
         },
         {
+            "reference": "SO016",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Manche avec boutonnière",
@@ -989,6 +1131,7 @@
             "prix": 63
         },
         {
+            "reference": "SO017",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Des deux côtés doublés",
@@ -996,6 +1139,7 @@
             "prix": 75
         },
         {
+            "reference": "SO018",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Des deux côtés non doublés",
@@ -1003,6 +1147,7 @@
             "prix": 70
         },
         {
+            "reference": "SO019",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Dos",
@@ -1010,6 +1155,7 @@
             "prix": 70
         },
         {
+            "reference": "SO020",
             "vetement": "Robe de soirée",
             "catgorie": "Cintrer",
             "action": "Épaules",
@@ -1017,6 +1163,7 @@
             "prix": 40
         },
         {
+            "reference": "SO021",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Pince (x1)",
@@ -1024,6 +1171,7 @@
             "prix": 25
         },
         {
+            "reference": "SO022",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "Bas de robe simple",
@@ -1031,6 +1179,7 @@
             "prix": 32
         },
         {
+            "reference": "SO023",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "bas de robe simple+ doublure",
@@ -1038,6 +1187,7 @@
             "prix": 42
         },
         {
+            "reference": "SO024",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "Bas de robe ample",
@@ -1045,6 +1195,7 @@
             "prix": 49
         },
         {
+            "reference": "SO025",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "bas de robe ample+doublure",
@@ -1052,6 +1203,7 @@
             "prix": 60
         },
         {
+            "reference": "SO026",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "Bas de robe main simple",
@@ -1059,6 +1211,7 @@
             "prix": 63
         },
         {
+            "reference": "SO027",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "Bas de robe main ample",
@@ -1066,6 +1219,7 @@
             "prix": 84
         },
         {
+            "reference": "SO028",
             "vetement": "Robe de soirée",
             "catgorie": "Raccourcir",
             "action": "Raccourcir les bretelles (x2)",
@@ -1073,6 +1227,7 @@
             "prix": 28
         },
         {
+            "reference": "SO029",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Zip",
@@ -1080,6 +1235,7 @@
             "prix": 49
         },
         {
+            "reference": "SO030",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "zip+doublure",
@@ -1087,6 +1243,7 @@
             "prix": 65
         },
         {
+            "reference": "SO031",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Zip invisible",
@@ -1094,6 +1251,7 @@
             "prix": 59
         },
         {
+            "reference": "SO032",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "zip invisible + doublure",
@@ -1101,26 +1259,31 @@
             "prix": 70
         },
         {
+            "reference": "SO033",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Couture d'appoint ou décousue - simple"
         },
         {
+            "reference": "SO034",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Couture d'appoint ou décousue - complexe"
         },
         {
+            "reference": "SO035",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Déchiré"
         },
         {
+            "reference": "SO036",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Changement doublure poche"
         },
         {
+            "reference": "SO037",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Bouton à l'unité (x1)",
@@ -1128,6 +1291,7 @@
             "prix": 4.5
         },
         {
+            "reference": "SO038",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Bouton pression (x1)",
@@ -1135,6 +1299,7 @@
             "prix": 7
         },
         {
+            "reference": "SO039",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Boutonnière (x1)",
@@ -1142,6 +1307,7 @@
             "prix": 7
         },
         {
+            "reference": "SO040",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Faire ou déplacer un passant",
@@ -1149,6 +1315,7 @@
             "prix": 14
         },
         {
+            "reference": "SO041",
             "vetement": "Robe de soirée",
             "catgorie": "divers",
             "action": "Rajouter des bretelles (x2)"
@@ -1156,6 +1323,7 @@
     ],
     "Accessoires": [
         {
+            "reference": "AC001",
             "vetement": "Accessoire",
             "catgorie": "pochette simple ",
             "action": " changement du zip",
@@ -1163,6 +1331,7 @@
             "prix": 15
         },
         {
+            "reference": "AC002",
             "vetement": "Accessoire",
             "catgorie": "pochette simple doublée",
             "action": "zip",
@@ -1170,12 +1339,14 @@
             "prix": 25
         },
         {
+            "reference": "AC003",
             "vetement": "Accessoire",
             "catgorie": "autre pochette",
             "action": "zip",
             "prix": "devis a prevoir"
         },
         {
+            "reference": "AC004",
             "vetement": "Accessoire",
             "catgorie": "sac",
             "action": "changement d'un bouton pression",
@@ -1183,6 +1354,7 @@
             "prix": 12
         },
         {
+            "reference": "AC005",
             "vetement": "Accessoire",
             "catgorie": "sac",
             "action": "changement zip ",
@@ -1190,6 +1362,7 @@
             "prix": 20
         },
         {
+            "reference": "AC006",
             "vetement": "Accessoire",
             "catgorie": "sac",
             "action": "couture d'appoint ou décousue",
@@ -1197,6 +1370,7 @@
             "prix": 8
         },
         {
+            "reference": "AC007",
             "vetement": "Accessoire",
             "catgorie": "sac",
             "action": "couture d'un anse decousu",
@@ -1204,6 +1378,7 @@
             "prix": 8
         },
         {
+            "reference": "AC008",
             "vetement": "Accessoire",
             "catgorie": "sac doublé",
             "action": "changement zip ",
@@ -1211,6 +1386,7 @@
             "prix": 30
         },
         {
+            "reference": "AC009",
             "vetement": "Accessoire",
             "catgorie": "sac doublé",
             "action": "changement doublure",
@@ -1218,6 +1394,7 @@
             "prix": 35
         },
         {
+            "reference": "AC010",
             "vetement": "Accessoire",
             "catgorie": "sac doublé",
             "action": "couture d'appoint ou décousue",
@@ -1225,6 +1402,7 @@
             "prix": 12
         },
         {
+            "reference": "AC011",
             "vetement": "Accessoire",
             "catgorie": "sac doublé",
             "action": "couture d'un anse decousu",
@@ -1232,6 +1410,7 @@
             "prix": 15
         },
         {
+            "reference": "AC012",
             "vetement": "linge de maison",
             "catgorie": "ourlet nappe ",
             "action": "decousu",
@@ -1239,6 +1418,7 @@
             "prix": 6
         },
         {
+            "reference": "AC013",
             "vetement": "linge de maison",
             "catgorie": "ourlet nappe decousu petite (100x100 ou ronde diametre 100)  ",
             "action": "refaire un ourlet simple",
@@ -1246,6 +1426,7 @@
             "prix": 10
         },
         {
+            "reference": "AC014",
             "vetement": "linge de maison",
             "catgorie": "ourlet nappe decousu petite (100x100 ou ronde diametre 100)  ",
             "action": "refaire ou changer un ourlet avec un biais",
@@ -1253,6 +1434,7 @@
             "prix": 25
         },
         {
+            "reference": "AC015",
             "vetement": "linge de maison",
             "catgorie": "ourlet nappe decousu grande(200x200 ou ronde diametre 200)  ",
             "action": "refaire un ourlet simple",
@@ -1260,6 +1442,7 @@
             "prix": 15
         },
         {
+            "reference": "AC016",
             "vetement": "linge de maison",
             "catgorie": "ourlet nappe decousu grande(200x200 ou ronde diametre 200)  ",
             "action": "refaire ou changer un ourlet avec un biais",
@@ -1267,6 +1450,7 @@
             "prix": 35
         },
         {
+            "reference": "AC017",
             "vetement": "linge de maison",
             "catgorie": "serviette ",
             "action": "couture d'appoint ou décousue",
@@ -1274,6 +1458,7 @@
             "prix": 5
         },
         {
+            "reference": "AC018",
             "vetement": "linge de maison",
             "catgorie": "serviette ",
             "action": "refaire un ourlet ",
@@ -1281,6 +1466,7 @@
             "prix": 10
         },
         {
+            "reference": "AC019",
             "vetement": "linge de maison",
             "catgorie": "housse decoussin",
             "action": "changement d'un zip invisible",
@@ -1288,6 +1474,7 @@
             "prix": 20
         },
         {
+            "reference": "AC020",
             "vetement": "linge de maison",
             "catgorie": "housse de coussin",
             "action": "couture d'appoint ou décousue",
@@ -1295,6 +1482,7 @@
             "prix": 8
         },
         {
+            "reference": "AC021",
             "vetement": "ameublement",
             "catgorie": "voilage x1",
             "action": "raccourcir ou raccourcir ou faire un ourlet",
@@ -1302,6 +1490,7 @@
             "prix": 6
         },
         {
+            "reference": "AC022",
             "vetement": "ameublement",
             "catgorie": "double rideau x1",
             "action": "faire un ourlet",
@@ -1309,6 +1498,7 @@
             "prix": 10
         },
         {
+            "reference": "AC023",
             "vetement": "ameublement",
             "catgorie": "double rideau doublé x1",
             "action": "raccourcir ou faire un ourlet",

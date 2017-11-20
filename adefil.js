@@ -83,4 +83,14 @@ function topFunction2() {
 }
 
 
+
+  $('[data-toggle="collapse"]').click(function() {
+    $('#wrapper').toggleClass('toggled');
+  });
+
+  // Toggle the class
+  $('body').on('click', '.dropdown', function() {
+    $(this).toggleClass('show');
+  });
+
 });

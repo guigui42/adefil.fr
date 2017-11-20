@@ -6,14 +6,8 @@
 
 
 
-@media (min-width: 600px) {
 
 
-}
-
-nav  {
-	color : black;
-}
 
 #myBtn {
     display: none; /* Hidden by default */
@@ -35,3 +29,5 @@ color: rgba(0, 0, 0, .2);
 #myBtn:hover {
     background-color: lightblue; /* Add a dark-grey background on hover */
 }
+
+
