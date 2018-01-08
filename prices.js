@@ -29,7 +29,7 @@ String.prototype.cleanup = function() {
 
   var items = [];
   $.each( data, function( key, val ) {
-    var link = "<a href='#topoftable' onClick=\"toggler('"+key.cleanup()+"', '"+key+"');\" class='list-group-item menu' id='menu"+key.cleanup()+"'>"+key+"</a>";
+    var link = "<a href='#topoftable'   onClick=\"toggler('"+key.cleanup()+"', '"+key+"');\" class='list-group-item menu' id='menu"+key.cleanup()+"'>"+key+"</a>";
     $( link).appendTo( "#list1" );
 
 

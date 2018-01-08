@@ -13,6 +13,23 @@
 }
 
 
+.menu {
+    color:#2ec2ec;
+    font-weight: bold;
+}
+
+.menu:hover {
+    background-color:#2ec2ec;
+    color: white;
+}
+
+
+.menu.active {
+     background-color:#2ec2ec;
+     border-color:#2ec2ec;
+
+}
+
 #myBtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
