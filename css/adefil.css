@@ -51,7 +51,15 @@ color: rgba(0, 0, 0, .2);
     background-color: lightblue; /* Add a dark-grey background on hover */
 }
 
+.adefillink {
+    color:#2ec2ec;
+    font-weight: bold;
+}
 
+.adefillink:hover {
+    color:black;
+    text-decoration:none;
+}
 
 .adefilheader {
 color:#2ec2ec
@@ -62,4 +70,8 @@ color:black;
 
 }
 
+
+ .adefilphone::before {
+    font-family: "Font Awesome 5 Solid";   content: "\f098";
+  }
 
